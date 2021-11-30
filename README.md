@@ -20,4 +20,4 @@ Make sure you have installed VS Code and Git
 ## Pushing and Commiting
 
 Can be done via VS Code's Source Control Feature.
-( I will tell you how later. Thank you.)
+(I will tell you how later. Thank you.)
