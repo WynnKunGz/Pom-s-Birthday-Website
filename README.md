@@ -25,4 +25,5 @@ Can be done via VS Code's Source Control Feature.
 2. After you have finished doing your stuff. Find the correct repository (if you have multiple) for this website. Press the + button that says "Stage All Changes"
 3. Then Press the Tick button that says "Commit", and give it some good commit names
 4. Press the button that says "Synchronize Changes".
-5. It will ask you to
+5. It will ask you to confirm the action that's going to push and pull commits to and from origin/main, Press OK.
+6. Done
