@@ -20,4 +20,9 @@ Make sure you have installed VS Code and Git
 ## Pushing and Commiting
 
 Can be done via VS Code's Source Control Feature.
-(I will tell you how later. Thank you.)
+
+1. You'll first have to activate it.
+2. After you have finished doing your stuff. Find the correct repository (if you have multiple) for this website. Press the + button that says "Stage All Changes"
+3. Then Press the Tick button that says "Commit", and give it some good commit names
+4. Press the button that says "Synchronize Changes".
+5. It will ask you to
