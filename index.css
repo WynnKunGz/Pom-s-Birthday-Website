@@ -72,6 +72,7 @@ img.birthday2 {
 }
 
 .pom_from_time {
-    padding: 30 px;
+    padding: 30px;
+    border: solid 5px black;
     background-color: white;
 }
