@@ -88,3 +88,15 @@ img.birthday3 {
     flex-direction: column;
     flex-wrap: wrap;
 }
+
+.wynnpic{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.zinepic{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
