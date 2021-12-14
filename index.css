@@ -100,3 +100,8 @@ img.birthday3 {
     flex-direction: column;
     flex-wrap: wrap;
 }
+
+.bdaycake {
+    max-height: 40vh;
+    border-radius: 10vh;
+}
