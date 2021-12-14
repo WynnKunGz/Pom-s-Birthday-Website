@@ -53,6 +53,12 @@ img.birthday {
     max-height: 40vh;
 }
 
+img.birthday2 {
+    max-height: 50vh;
+    border-radius: 50vh;
+}
+
+
 .text {
     padding: 1em;
 }
