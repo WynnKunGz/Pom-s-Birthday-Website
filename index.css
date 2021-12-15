@@ -192,7 +192,21 @@ img.birthday9 {
     font-style: oblique;
 }
 
+.container{
+display: flex;
+flex-direction: column;
 
+}
+
+.item{
+border: solid 1px teal;
+background-color: white;
+font-size: 15px;
+padding: 5 px;
+margin: 5 px;
+border-radius: 2px;
+flex-shrink: 1;
+}
 /* .textb {
     font-family: 'Sukhumvit Set', sans-serif;
 } */
