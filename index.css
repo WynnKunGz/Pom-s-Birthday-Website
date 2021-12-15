@@ -109,3 +109,9 @@ img.birthday3 {
 .quotes {
     text-align: left;
 }
+
+.additional-info {
+    display: inline;
+    font-style: oblique;
+
+}
