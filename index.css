@@ -70,6 +70,8 @@ body {
 
 img.birthday {
     max-height: 40vh;
+    border-radius: 30vh;
+    padding: 10px;
 }
 
 img.birthday2 {
@@ -99,6 +101,12 @@ img.birthday5 {
 img.birthday6 {
     max-height: 40vh;
     border-radius: 20vh;
+    padding: 10px;
+}
+
+img.birthday7 {
+    max-height: 40vh;
+    border-radius: 15vh;
     padding: 10px;
 }
 
@@ -151,6 +159,11 @@ img.birthday6 {
     flex-wrap: wrap;
 }
 
+.zenpic {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
 
 .bdaycake {
     max-height: 25vh;
