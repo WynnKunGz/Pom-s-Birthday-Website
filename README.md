@@ -18,7 +18,7 @@ Pom-s-Birthday-Website (main)```)
 3. Run ```git pull -f origin main```
 4. Done
 
-## Pushing and Commiting
+## Pushing and Committing
 
 Can be done via VS Code's Source Control Feature.
 
