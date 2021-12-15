@@ -12,7 +12,7 @@ body {
 }
 
 .card {
-    background: #f8f8f8;
+    background: #a8a8a8;
     border-radius: 0 100px 0 100px;
     height: 85vh;
     width: 80vw;
@@ -25,7 +25,21 @@ body {
     padding: 1em;
     overflow: hidden;
     margin-bottom: 200px;
-    flex-wrap: wrap;
+}
+
+.card2 {
+    background: #a8a8a8;
+    border-radius: 0 100px 0 100px;
+    height: 85vh;
+    width: 80vw;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+    overflow: hidden;
+    margin-bottom: 200px;
 }
 
 @media only screen and (min-width: 1000px) {
