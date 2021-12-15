@@ -75,13 +75,14 @@ img.birthday2 {
 }
 
 img.birthday3 {
-    max-height: 40vh;
+    max-height: 30vh;
     border-radius: 40vh;
     padding: 10px;
 }
 
 img.birthday4 {
     max-height: 40vh;
+    border-radius: 10vh;
     padding: 10px;
 }
 
@@ -120,6 +121,19 @@ img.birthday4 {
     flex-direction: column;
     flex-wrap: wrap;
 }
+
+.ninepic{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.tintinpic{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
 
 .bdaycake {
     max-height: 25vh;
