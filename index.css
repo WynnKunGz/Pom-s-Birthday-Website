@@ -103,7 +103,7 @@ img.birthday3 {
 
 .bdaycake {
     max-height: 25vh;
-    border-radius: 10vh;
+    border-radius: 0 0 10vh 10vh;
 }
 
 .quotes {
