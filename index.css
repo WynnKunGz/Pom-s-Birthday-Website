@@ -12,7 +12,7 @@ body {
 }
 
 .card {
-    background: #a8a8a8;
+    background: wheat;
     border-radius: 0 100px 0 100px;
     height: 85vh;
     width: 80vw;
@@ -28,7 +28,7 @@ body {
 }
 
 .card2 {
-    background: #a8a8a8;
+    background: #F6D7A7;
     border-radius: 0 100px 0 100px;
     height: 85vh;
     width: 80vw;
@@ -37,7 +37,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 1em;
+    padding: 0 1em 1em 1em;
     overflow: hidden;
     margin-bottom: 200px;
 }
