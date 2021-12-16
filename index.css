@@ -13,7 +13,7 @@ body {
 
 .card {
     background: wheat;
-    border-radius: 0 100px 0 100px;
+    border-radius: 0 50px 0 50px;
     width: 80vw;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
     text-align: center;
