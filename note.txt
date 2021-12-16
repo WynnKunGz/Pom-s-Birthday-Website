@@ -10,3 +10,6 @@ pbw-0002 link bar still exists in some pages although it is commented out.
     - pup.html
 pbw-0003 heading doesnt exist.
 pbw-0004 @media only screen stuff causes pictures to be very small.
+pbw-0005 pictures are not rendered properly in the wynnkungz.github.io website.
+pbw-0006 area between card and bottom of the screen is a bit too small.
+pbw-0007 ...
