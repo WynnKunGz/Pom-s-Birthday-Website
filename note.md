@@ -5,6 +5,8 @@
 - reveal the identity of cha-eunwoo
 - add <br> in some pages, some texts to seperate the paragraphs, sentences.
 - obfuscated texts and modified texts (trying out stuff)
+- font size, font color, font.
+- customized headings, paragraphs and stuff.
 
 # issues
 
