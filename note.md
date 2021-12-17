@@ -7,6 +7,7 @@
 - obfuscated texts and modified texts (trying out stuff)
 - font size, font color, font.
 - customized headings, paragraphs and stuff.
+- code refactor
 
 # issues
 
