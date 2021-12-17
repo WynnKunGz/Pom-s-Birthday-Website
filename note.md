@@ -13,7 +13,7 @@
     - nine.html 
     - pup.html
 - affected versions : v.0.1.4.3, v.0.1.4.4
-- fixed version : unknown (planned to be fixed in v.0.1.4.5)
+- fixed version : v.0.1.4.5
 
 ## pbw-0003 heading doesnt exist in any pages at all.
 - affected versions : v.0.1.3.7, v.0.1.3.8, v.0.1.4, v.0.1.4.1, v.0.1.4.2, 
