@@ -3,7 +3,8 @@
 - revamped index.html
 - put all unused pictures in memories
 - reveal the identity of cha-eunwoo
-- add <br> in some pages, some texts to seperate the paragraphs/ sentences.
+- add <br> in some pages, some texts to seperate the paragraphs, sentences.
+- obfuscated texts and modified texts (trying out stuff)
 
 # issues
 
