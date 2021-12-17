@@ -16,8 +16,8 @@
 - fixed version : unknown
 
 ## pbw-0002 menu bar still exists in some pages although it is commented out.
-### - nine.html 
-### - pup.html
+##### - nine.html 
+##### - pup.html
 
 - affected versions : v.0.1.4.3, v.0.1.4.4
 - fixed version : v.0.1.4.5
