@@ -3,7 +3,6 @@
 - revamped index.html
 - put all unused pictures in memories
 - reveal the identity of cha-eunwoo
-- add <br> in some pages, some texts to seperate the paragraphs, sentences.
 - obfuscated texts and modified texts (trying out stuff)
 - font size, font color, font.
 - customized headings, paragraphs and stuff.
@@ -62,3 +61,11 @@ v.0.1.2.1, v.0.1.2.2, v.0.1.2.3, v.0.1.3, v.0.3.1.1, v.0.1.3.2, v.0.1.3.3,
 v.0.1.3.4, v.0.1.3.5, v.0.1.3.6, v.0.1.3.7, v.0.1.3.8, v.0.1.4, v.0.1.4.1, 
 v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5
 - fixed version : v.0.1.4.6
+
+## pbw-0009 <br> is not present in most places causing weird texts placement.
+
+- affected version : 21w48a, v.0.1 pre-1, v.0.1, v.0.1.1, 21w48b, v.0.1.2, 
+v.0.1.2.1, v.0.1.2.2, v.0.1.2.3, v.0.1.3, v.0.3.1.1, v.0.1.3.2, v.0.1.3.3, 
+v.0.1.3.4, v.0.1.3.5, v.0.1.3.6, v.0.1.3.7, v.0.1.3.8, v.0.1.4, v.0.1.4.1, 
+v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7
+- fixed version : unknown
