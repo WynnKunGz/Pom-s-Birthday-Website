@@ -323,12 +323,12 @@ img.easter_egg_hint {
     font-style: oblique;
 }
 
-.container {
+/* .container {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
     flex-wrap: wrap;
-}
+} */
 
 .item {
     border: solid 1px teal;

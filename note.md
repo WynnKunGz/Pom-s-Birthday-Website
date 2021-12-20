@@ -54,9 +54,8 @@
 
 ## pbw-001 born.html doesnt contain any text, has only birthday.svg
 
-- affected versions : v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, 
-v.0.1.4.8
-- fixed version : unknown
+- affected versions : v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7
+- fixed version : v.0.1.4.8
 
 ## pbw-002 menu bar still exists in some pages although it is commented out.
 ##### - nine.html 
@@ -65,7 +64,17 @@ v.0.1.4.8
 - affected versions : v.0.1.4.3, v.0.1.4.4
 - fixed version : v.0.1.4.5
 
-## pbw-003 heading doesnt get rendered in any pages at all.
+## pbw-003 heading doesnt get rendered in pages
+##### - mrball.html
+##### - mspik.html
+##### - mrball.html
+##### - mrball.html
+##### - mrball.html
+##### - mrball.html
+##### - mrball.html
+##### - mrball.html
+##### - mrball.html
+
 
 - affected versions : v.0.1.3.7, v.0.1.3.8, v.0.1.4, v.0.1.4.1, v.0.1.4.2, 
 v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8
