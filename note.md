@@ -67,14 +67,14 @@
 ## pbw-003 heading doesnt get rendered in pages
 ##### - mrball.html
 ##### - mspik.html
-##### - mrball.html
-##### - mrball.html
-##### - mrball.html
-##### - mrball.html
-##### - mrball.html
-##### - mrball.html
-##### - mrball.html
-
+##### - wynn.html
+##### - tintin.html
+##### - zine.html
+##### - nine.html
+##### - zen.html
+##### - pup.html
+##### - born.html
+##### - m.html
 
 - affected versions : v.0.1.3.7, v.0.1.3.8, v.0.1.4, v.0.1.4.1, v.0.1.4.2, 
 v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8
