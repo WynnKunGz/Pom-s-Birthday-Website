@@ -50,6 +50,11 @@
 - planned to be finished : v.0.1.4.9
 - status : planned
 
+## pbwf-011 born.html change picture from birthday.svg to something else instead.
+
+- planned to be finished : v.0.1.4.9
+- status : planned
+
 # issues
 
 ## pbw-001 born.html doesnt contain any text, has only birthday.svg
