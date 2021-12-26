@@ -12,7 +12,7 @@
 
 ## pbwf-003 revamped index.html
 
-- planned to be finished : v.0.1.x
+- planned to be finished : v.0.1.4.12
 - status : unknown
 
 ## pbwf-004 put all unused pictures in memories
@@ -32,17 +32,17 @@
 
 ## pbwf-007 font size, font color, font.
 
-- planned to be finished : v.0.1.x
+- planned to be finished : v.0.1.4.14
 - status : unknown
 
 ## pbwf-008 customized headings, paragraphs and stuff.
 
-- planned to be finished : v.0.1.x
+- planned to be finished : v.0.1.4.13
 - status : unknown
 
 ## pbwf-009 code cleanup
 
-- planned to be finished : v.0.1.x
+- planned to be finished : v.0.1.5
 - status : unknown
 
 ## pbwf-010 update links to zine's page from cha-eunwoo.html to zine.html
