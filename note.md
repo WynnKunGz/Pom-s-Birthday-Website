@@ -82,20 +82,20 @@
 ##### - m.html
 
 - affected versions : v.0.1.3.7, v.0.1.3.8, v.0.1.4, v.0.1.4.1, v.0.1.4.2, 
-v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8
+v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8, 21w52a
 - fixed version : unknown
 
 ## pbw-004 @media only screen stuff causes pictures to be very small in pages.
 
 - affected versions : v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, 
-v.0.1.4.8
+v.0.1.4.8, 21w52a
 - fixed version : unknown
 
 ## pbw-005 pictures are not rendered properly in the wynnkungz.github.io website.
 
 - affected versions : v.0.1.3.3, v.0.1.3.4, v.0.1.3.5, v.0.1.3.6, v.0.1.3.7, 
 v.0.1.3.8, v.0.1.4, v.0.1.4.1, v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5,
-v.0.1.4.6, v.0.1.4.7, v.0.1.4.8
+v.0.1.4.6, v.0.1.4.7, v.0.1.4.8, 21w52a
 - fixed version : unknown
 
 ## pbw-006 area between card and bottom of the screen is a bit too small.
@@ -103,13 +103,14 @@ v.0.1.4.6, v.0.1.4.7, v.0.1.4.8
 - affected versions : 21w48a, v.0.1 pre-1, v.0.1, v.0.1.1, 21w48b, v.0.1.2, 
 v.0.1.2.1, v.0.1.2.2, v.0.1.2.3, v.0.1.3, v.0.3.1.1, v.0.1.3.2, v.0.1.3.3, 
 v.0.1.3.4, v.0.1.3.5, v.0.1.3.6, v.0.1.3.7, v.0.1.3.8, v.0.1.4, v.0.1.4.1, 
-v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8
+v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8, 
+21w52a
 - fixed version : unknown
 
 ## pbw-007 text doesnt fit in about.html
 
 - affected versions : v.0.1.3.8, v.0.1.4, v.0.1.4.1, v.0.1.4.2, v.0.1.4.3, 
-v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8
+v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8, 21w52a
 - fixed version : unknown
 
 ## pbw-008 wynn.html doesnt use new lines, instead uses new paragraph causing too much space between lines.
@@ -125,5 +126,6 @@ v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5
 - affected version : 21w48a, v.0.1 pre-1, v.0.1, v.0.1.1, 21w48b, v.0.1.2, 
 v.0.1.2.1, v.0.1.2.2, v.0.1.2.3, v.0.1.3, v.0.3.1.1, v.0.1.3.2, v.0.1.3.3, 
 v.0.1.3.4, v.0.1.3.5, v.0.1.3.6, v.0.1.3.7, v.0.1.3.8, v.0.1.4, v.0.1.4.1, 
-v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8
+v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8, 
+21w52a
 - fixed version : unknown
