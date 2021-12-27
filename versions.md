@@ -207,3 +207,7 @@
 - update memories.html
 - easter_egg_hint.jpg -> easter-egg-hint.jpg
 - easter_egg.wav -> easter-egg.wav
+
+## 21w52c
+- update note.md
+- update versions.md

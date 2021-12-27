@@ -7,7 +7,7 @@
 ## current snapshot/ pre-release/ release candidate 
 - 21w52b
 ## in development snapshot/ pre-release/ release candidate
-- none
+- 21w52c
 
 # features
 
@@ -67,9 +67,10 @@
 - status : planned
 
 ## pbwf-012 add info to versions.md stating which feature is added in which version.
+### define which feature is added (the exact feature)
 
-- planned to be finised : v.0.1.4.9 (21w52b)
-- status : done 
+- planned to be finised : v.0.1.4.9 
+- status : in progress
 
 # issues
 
