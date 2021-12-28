@@ -89,9 +89,9 @@
 ## pbw-003 heading doesnt get rendered in pages (listed below)
 ##### - mrball.html
 ##### - mspik.html
-##### - wynn.html
+##### - wynn.html (done)
 ##### - tintin.html
-##### - zine.html
+##### - zine.html (done)
 ##### - nine.html
 ##### - zen.html
 ##### - pup.html
