@@ -69,7 +69,7 @@
 ## pbwf-012 add info to versions.md stating which feature is added in which version.
 ### define which feature is added (the exact feature)
 
-- planned to be finised : v.0.1.4.9 
+- planned to be finished : v.0.1.4.9 
 - status : in progress
 
 # issues
