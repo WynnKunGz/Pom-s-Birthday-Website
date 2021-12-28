@@ -5,7 +5,7 @@
 - added time.html
 - added about.html
 
-## v.0.1 pre-1
+## v.0.1pre-1
 - added birthday.svg
 - added .gitattributes
 - added LICENSE
