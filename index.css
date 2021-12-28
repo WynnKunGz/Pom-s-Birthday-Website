@@ -350,3 +350,8 @@ img.easter_egg_hint {
     display: block;
     padding: 5px;
 }
+
+.homeheading {
+    color: black;
+    margin: 10px;
+}
