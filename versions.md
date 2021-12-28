@@ -9,7 +9,7 @@
 - added LICENSE
 - added readme.md
 
-## v.0.1pre-1
+## v.0.1 pre-1
 - update readme.md
 
 ## v.0.1 
