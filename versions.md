@@ -37,7 +37,7 @@
 ## v.0.1.2.3
 - update index.css (update border radius for card, new border)
 
-## v.0.1.3
+## v.0.1.3 -- start here -- 
 - added Kang-Yeseo.jpg
 - added SOWON.jpg
 - update about.html
