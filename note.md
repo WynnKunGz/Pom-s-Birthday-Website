@@ -5,9 +5,9 @@
 ## in development version 
 - v.0.1.4.9
 ## current snapshot/ pre-release/ release candidate 
-- 21w52b
-## in development snapshot/ pre-release/ release candidate
 - 21w52c
+## in development snapshot/ pre-release/ release candidate
+- 21w52d
 
 # features
 
@@ -58,13 +58,13 @@
 
 ## pbwf-010 update links to zine's page from cha-eunwoo.html to zine.html
 
-- planned to be finished : v.0.1.4.9
+- planned to be finished : v.0.1.4.10
 - status : planned
 
 ## pbwf-011 born.html change picture from birthday.svg to something else instead.
 
 - planned to be finished : v.0.1.4.9
-- status : planned
+- status : done
 
 ## pbwf-012 add info to versions.md stating which feature is added in which version.
 ### define which feature is added (the exact feature)
@@ -123,7 +123,7 @@ v.0.1.2.1, v.0.1.2.2, v.0.1.2.3, v.0.1.3, v.0.3.1.1, v.0.1.3.2, v.0.1.3.3,
 v.0.1.3.4, v.0.1.3.5, v.0.1.3.6, v.0.1.3.7, v.0.1.3.8, v.0.1.4, v.0.1.4.1, 
 v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8, 
 21w52a, 21w52b
-- fixed version : unknown
+- fixed version : 21w52c
 
 ## pbw-007 text doesnt fit in about.html
 
