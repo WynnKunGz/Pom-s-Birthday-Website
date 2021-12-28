@@ -7,7 +7,7 @@
 ## current snapshot/ pre-release/ release candidate 
 - 21w52c
 ## in development snapshot/ pre-release/ release candidate
-- 21w52d
+- none
 
 # features
 
