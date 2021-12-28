@@ -87,21 +87,21 @@
 - fixed version : v.0.1.4.5
 
 ## pbw-003 heading doesnt get rendered in pages (listed below)
-##### - mrball.html
-##### - mspik.html
+##### - mrball.html (done)
+##### - misspik.html (done)
 ##### - wynn.html (done)
-##### - tintin.html
+##### - tintin.html (done)
 ##### - zine.html (done)
-##### - nine.html
-##### - zen.html
-##### - pup.html
-##### - born.html
-##### - m.html
+##### - nine.html (done)
+##### - zen.html (done)
+##### - pup.html (done)
+##### - born.html (done)
+##### - m.html (done)
 
 - affected versions : v.0.1.3.7, v.0.1.3.8, v.0.1.4, v.0.1.4.1, v.0.1.4.2, 
 v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8, 21w52a,
 21w52b
-- fixed version : unknown
+- fixed version : 21w52c
 
 ## pbw-004 @media only screen stuff causes pictures to be very small in pages.
 
