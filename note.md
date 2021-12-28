@@ -114,7 +114,7 @@ v.0.1.4.8, 21w52a, 21w52b
 - affected versions : v.0.1.3.3, v.0.1.3.4, v.0.1.3.5, v.0.1.3.6, v.0.1.3.7, 
 v.0.1.3.8, v.0.1.4, v.0.1.4.1, v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5,
 v.0.1.4.6, v.0.1.4.7, v.0.1.4.8, 21w52a, 21w52b
-- fixed version : unknown
+- fixed version : 21w52c
 
 ## pbw-006 area between card and bottom of the screen is a bit too small.
 
