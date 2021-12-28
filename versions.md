@@ -1,28 +1,29 @@
-## 21w48a
+## 21w48a (setup)
 - added index.html 
 - added index.css
 - added wynn.html 
 - added time.html
 - added about.html
-
-## v.0.1pre-1
 - added birthday.svg
 - added .gitattributes
 - added LICENSE
 - added readme.md
 
-## v.0.1
-- update about.html
+## v.0.1pre-1
+- update readme.md
+
+## v.0.1 
+- update about.html (added copyright sign)
 
 ## v.0.1.1
 - added .gitignore
 
-## 21w48b
+## 21w48b 
 - update readme.md
 
 ## v.0.1.2
 - update readme.md
-- update about.html
+- update about.html (update copyright sign)
 - update .gitignore
 - added links (accessing sub pages from index.html)
 
@@ -30,11 +31,11 @@
 - update .gitattributes
 
 ## v.0.1.2.2
-- update time.html
-- update index.css
+- update time.html (update paragraph)
+- update index.css (update border radius for card)
 
 ## v.0.1.2.3
-- update index.css
+- update index.css (update border radius for card, new border)
 
 ## v.0.1.3
 - added Kang-Yeseo.jpg
