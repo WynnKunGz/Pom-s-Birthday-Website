@@ -212,3 +212,9 @@
 ## 21w52c
 - update note.md
 - update versions.md
+
+## 21w52d
+- added website icon
+- added bug report template
+- added feature request template
+- added CONTRIBUTING.md
