@@ -5,9 +5,9 @@
 ## in development version 
 - v.0.1.4.9
 ## current snapshot/ pre-release/ release candidate 
-- 21w52c
-## in development snapshot/ pre-release/ release candidate
 - 21w52d
+## in development snapshot/ pre-release/ release candidate
+- v.0.1.4.9 pre-1
 
 # features
 
@@ -75,7 +75,7 @@
 ## pbwf-013 add website icon to every page.
 
 - planned to be finished : v.0.1.4.9
-- status : in progress
+- status : done
 
 # issues
 
@@ -111,7 +111,7 @@ v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8, 21w52a,
 ## pbw-004 @media only screen stuff causes pictures to be very small in pages.
 
 - affected versions : v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, 
-v.0.1.4.8, 21w52a, 21w52b, 21w52c
+v.0.1.4.8, 21w52a, 21w52b, 21w52c, 21w52d
 - fixed version : unknown
 
 ## pbw-005 pictures are not rendered properly in the wynnkungz.github.io website.
@@ -133,7 +133,8 @@ v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8,
 ## pbw-007 text doesnt fit in about.html
 
 - affected versions : v.0.1.3.8, v.0.1.4, v.0.1.4.1, v.0.1.4.2, v.0.1.4.3, 
-v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8, 21w52a, 21w52b, 21w52c
+v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8, 21w52a, 21w52b, 
+21w52c, 21w52d
 - fixed version : unknown
 
 ## pbw-008 wynn.html doesnt use new lines, instead uses new paragraph causing too much space between lines.
@@ -150,5 +151,5 @@ v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5
 v.0.1.2.1, v.0.1.2.2, v.0.1.2.3, v.0.1.3, v.0.3.1.1, v.0.1.3.2, v.0.1.3.3, 
 v.0.1.3.4, v.0.1.3.5, v.0.1.3.6, v.0.1.3.7, v.0.1.3.8, v.0.1.4, v.0.1.4.1, 
 v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8, 
-21w52a, 21w52b, 21w52c
+21w52a, 21w52b, 21w52c, 21w52d
 - fixed version : unknown
