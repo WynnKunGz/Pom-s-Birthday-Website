@@ -218,3 +218,6 @@
 - added bug report template
 - added feature request template
 - added CONTRIBUTING.md
+- update version.md
+- update note.md
+- 
