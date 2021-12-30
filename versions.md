@@ -37,7 +37,7 @@
 ## v.0.1.2.3
 - update index.css (update border radius for card, new border)
 
-## v.0.1.3
+## v.0.1.3 
 - added Kang-Yeseo.jpg
 - added SOWON.jpg
 - update about.html
@@ -223,6 +223,6 @@
 
 ## v.0.1.4.9 pre-1
 - update versions.md
-
-## v.0.1.4.9
+- update note.md
+- update memories.html (changed the heading and added link to audio download)
 - 

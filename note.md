@@ -135,7 +135,7 @@ v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8,
 - affected versions : v.0.1.3.8, v.0.1.4, v.0.1.4.1, v.0.1.4.2, v.0.1.4.3, 
 v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8, 21w52a, 21w52b, 
 21w52c, 21w52d
-- fixed version : unknown
+- fixed version : v.0.1.4.9 pre-1
 
 ## pbw-008 wynn.html doesnt use new lines, instead uses new paragraph causing too much space between lines.
 
