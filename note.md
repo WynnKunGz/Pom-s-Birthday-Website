@@ -53,7 +53,7 @@
 
 ## pbwf-009 code cleanup
 
-- planned to be finished : v.0.1.x
+- planned to be finished : v.1.0
 - status : unknown
 
 ## pbwf-010 update links to zine's page from cha-eunwoo.html to zine.html
@@ -111,7 +111,7 @@ v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8, 21w52a,
 ## pbw-004 @media only screen stuff causes pictures to be very small in pages.
 
 - affected versions : v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, 
-v.0.1.4.8, 21w52a, 21w52b, 21w52c, 21w52d
+v.0.1.4.8, 21w52a, 21w52b, 21w52c, 21w52d, v.0.1.4.9 pre-1
 - fixed version : unknown
 
 ## pbw-005 pictures are not rendered properly in the wynnkungz.github.io website.
@@ -151,5 +151,5 @@ v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5
 v.0.1.2.1, v.0.1.2.2, v.0.1.2.3, v.0.1.3, v.0.3.1.1, v.0.1.3.2, v.0.1.3.3, 
 v.0.1.3.4, v.0.1.3.5, v.0.1.3.6, v.0.1.3.7, v.0.1.3.8, v.0.1.4, v.0.1.4.1, 
 v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8, 
-21w52a, 21w52b, 21w52c, 21w52d
+21w52a, 21w52b, 21w52c, 21w52d, v.0.1.4.9 pre-1
 - fixed version : unknown

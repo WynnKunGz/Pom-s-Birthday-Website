@@ -40,37 +40,37 @@
 ## v.0.1.3 
 - added Kang-Yeseo.jpg
 - added SOWON.jpg
-- update about.html
+- update about.html (update title)
 - added bday-cake.png
-- update index.css
-- update index.html
-- added memories.html
+- update index.css (added css for images: birthday2, birthday3, pomeranian, timepic, wynnpic, zinepic, bdaycake)
+- update index.html (update title and links)
+- added memories.html (added with basic format)
 - added puimek-education.jpg
 - added puimek.jpeg
-- update time.html
-- update wynn.html
-- added zine.html
+- update time.html (update title, heading (started using pomeranian), pictures, and paragraph)
+- update wynn.html (update title, pictures, and paragraph)
+- added zine.html (added with basic format)
 
 ## v.0.1.3.1
-- update zine.html
-- zine.html -> cha-eunwoo.html
-- update index.html
-- update time.html
+- update zine.html (update paragraph and changed the identity to cha eunwoo) 
+- zine.html -> cha-eunwoo.html (changed name as zine asked if he could be anonymous)
+- update index.html (update links)
+- update time.html (update title)
 
 ## v.0.1.3.2
-- update index.html
-- update index.css
-- update time.html
+- update index.html (added rickroll easter egg)
+- update index.css (update .bdaycake and added .quotes)
+- update time.html (update paragraph)
 
 ## v.0.1.3.3
-- update readme.md
-- update about.html
-- update cha-eunwoo.html
-- update index.css
-- update time.html
+- update readme.md (update spelling)
+- update about.html (change name from about to credits)
+- update cha-eunwoo.html (update paragraph)
+- update index.css (update .bdaycake and added .additional-info)
+- update time.html (update paragraph)
 
 ## v.0.1.3.4
-- update LICENSE
+- update LICENSE 
 - update about.html
 - update time.html
 - added example.html
