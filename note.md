@@ -5,9 +5,9 @@
 ## in development version 
 - v.0.1.4.9
 ## current snapshot/ pre-release/ release candidate 
-- 21w52d
-## in development snapshot/ pre-release/ release candidate
 - v.0.1.4.9 pre-1
+## in development snapshot/ pre-release/ release candidate
+- v.0.1.4.9 pre-2
 
 # features
 
