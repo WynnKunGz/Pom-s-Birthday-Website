@@ -5,9 +5,9 @@
 ## in development version 
 - v.0.1.4.9
 ## current snapshot/ pre-release/ release candidate 
-- v.0.1.4.9 pre-1
-## in development snapshot/ pre-release/ release candidate
 - v.0.1.4.9 pre-2
+## in development snapshot/ pre-release/ release candidate
+- v.0.1.4.9 pre-3
 
 # features
 
@@ -54,7 +54,7 @@
 ## pbwf-009 code cleanup
 
 - planned to be finished : v.0.2.0
-- status : unknown
+- status : planned
 
 ## pbwf-010 update links to zine's page from cha-eunwoo.html to zine.html
 

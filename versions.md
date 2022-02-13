@@ -192,22 +192,26 @@ img.easter_egg_hint classes to both @media only screen, and re-format some code)
 - update note.md (added information)
 
 ## v.0.1.4.8
-- update about.html 
-- update born.html
-- example.html -> format.html
-- update index.html
-- update m.html
-- update memories.html
-- update misspik.html
-- update mrball.html
-- update nine.html
-- update note.md
-- update pup.html
-- update time.html
-- update tintin.html
-- update wynn.html
-- update zen.html
-- cha-eunwoo.html -> zine.html
+- update about.html (update contributors and signatures)
+- update born.html (update css classes for heading and picture, and removed
+temporary menu bar)
+- example.html -> format.html (update css class for heading and renamed file)
+- update index.html (update links)
+- update m.html (update css class for heading and update paragraph)
+- update memories.html (update css class for heading)
+- update misspik.html (update css class for heading)
+- update mrball.html (update css class for heading)
+- update nine.html (update css class for heading)
+- update note.md (added and update information)
+- update pup.html (update css class for heading)
+- update time.html (update title)
+- update tintin.html (update css class for heading)
+- update wynn.html (update css class for heading)
+- update zen.html (update css class for heading)
+- cha-eunwoo.html -> zine.html (update title, paragraph, and css class for heading, and renamed file)
+- completed pbwf-002
+- completed pbwf-005
+- fixed pbw-001
 
 ## 21w52a
 - update note.md
@@ -242,3 +246,9 @@ img.easter_egg_hint classes to both @media only screen, and re-format some code)
 - update mrball.html (update title)
 - update note.md (update information)
 - update versions.md (added information)
+
+## v..0.1.4.9 pre-3
+- update note.md (update information)
+- update versions.md (added information)
+
+## v.0.1.4.9 rc-1
