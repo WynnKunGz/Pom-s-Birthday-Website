@@ -70,119 +70,129 @@
 - update time.html (update paragraph)
 
 ## v.0.1.3.4
-- update LICENSE 
-- update about.html
-- update time.html
-- added example.html
+- update LICENSE (added time to the owner of this code)
+- update about.html (re-arranged names in credits)
+- update time.html (update paragraph)
+- added example.html (as a format file for html)
 
 ## v.0.1.3.5
-- update index.css
+- update index.css (update .card, .birthday3, and added .card2, .birthday4, .ninepic, and .tintinpic)
 - added cha-eunwoo.jpg
-- update index.html
+- update index.html (update links after attempting to move all sub pages to "pages" folder)
 - added ninepic.jpg
-- added nine.html
-- added tintin.html
-- update memories.html
-- update cha-eunwoo.html
-- update about.html
-- tried moving all sub pages to "pages" folder
+- added nine.html (added with basic format and all information)
+- added tintin.html (added with basic format)
+- update memories.html (update title and paragraph)
+- update cha-eunwoo.html (update picture)
+- update about.html (update css classes (changed from .card to .card2) and update heading)
+- update time.html (moved from time.html to pages/time.html)
+- update wynn.html (moved from wynn.html to pages/wynn.html)
+- attempted moving all sub pages to "pages" folder
 
 ## v.0.1.3.6
-- update about.html
+- update about.html (added contributors and signatures)
 - added happy.jpg
-- update index.css
-- update index.html
-- update time.html
-- update tintin.html
+- update index.css (update .card, .space, and added .birthday5)
+- update index.html (update links as the moves of sub pages to the "pages" folder have been reverted)
+- update time.html (added `<br>`)
+- update tintin.html (update title, picture, and paragraph)
+- update cha-eunwoo.html (moved from pages/cha-eunwoo.html to cha-eunwoo.html)
+- update memories.html (moved from pages/memories.html to memories.html)
+- update nine.html (moved from pages/nine.html to nine.html)
+- update wynn.html (moved from pages/wynn.html to wynn.html)
 - reverted the move of sub pages to the "pages" folder
 
 ## v.0.1.3.7
-- update about.html
-- update cha-eunwoo.html
-- update index.css
-- update index.html
-- added masterball.jpg
-- added mrball.html
-- update nine.html
-- added pup.html
-- added tinpiano.mp4
-- update tintin.html
-- update wynn.html
-- added zen.html
-- added zenpic.jpg
+- update about.html (update contributors and signatures, added pictures, used class "Heading" for the heading)
+- update cha-eunwoo.html (used class "Heading" for the heading)
+- update index.css (update font family for body to use puimek font, update .card2, .birthday, .text, and added
+.birthday6, .birthday7, .zenpic, and .textb)
+- update index.html (added and update links)
+- added masterball.jpg 
+- added mrball.html (added with basic format and all information)
+- update nine.html (used class "Heading" for the heading)
+- added pup.html (added with basic format)
+- added tinpiano.mp4 
+- update tintin.html (added video, and used class "Heading" for the heading)
+- update wynn.html (used class "Heading" for the heading)
+- added zen.html (added with basic format and all information)
+- added zenpic.jpg 
 
 ## v.0.1.3.8
-- update about.html
-- added born.html
-- update index.css
-- update index.html
-- added misspik.html
-- added misspik.png
-- update mrball.html
+- update about.html (update contributors and signatures, added credits and copyrights)
+- added born.html (added with basic format and all information)
+- update index.css (added .birthday8, .birthday9)
+- update index.html (added links)
+- added misspik.html (added with basic format and all information)
+- added misspik.png 
+- update mrball.html (update paragraph)
 - added pup.gif
-- update pup.html
+- update pup.html (update paragraph and added picture)
 
 ## v.0.1.4 (added links)
-- update about.html
-- update born.html
-- update cha-eunwoo.html
-- update index.css
-- update index.html
-- added m.html
-- update memories.html
-- update misspik.html
-- update mrball.html
-- update nine.html
-- update pup.html
-- update time.html
-- update tintin.html
-- update wynn.html
-- update zen.html
+- update about.html (update contributors and signatures, added temporary menu bar)
+- update born.html (added temporary menu bar and update picture)
+- update cha-eunwoo.html (added temporary menu bar)
+- update index.css (added .birthday10, .container, .item, .home)
+- update index.html (removed old links, added temporary menu bar)
+- added m.html (added with basic format and all information)
+- update memories.html (added temporary menu bar)
+- update misspik.html (added temporary menu bar)
+- update mrball.html (added temporary menu bar)
+- update nine.html (added temporary menu bar)
+- update pup.html (added temporary menu bar)
+- update time.html (added temporary menu bar)
+- update tintin.html (added temporary menu bar)
+- update wynn.html (added temporary menu bar)
+- update zen.html (added temporary menu bar)
 - added zhongguo.png
 
 ## v.0.1.4.1
-- update index.css
-- update m.html
+- update index.css (update .container, .item, .home)
+- update m.html (update css class for the temporary menu bar)
 
 ## v.0.1.4.2
-- update about.html
+- update about.html (update contributors and signatures)
 
 ## v.0.1.4.3
-- update about.html
-- update born.html
-- update cha-eunwoo.html
-- added easter_egg.wav
-- added easter_egg_hint.jpg
-- update index.css
-- update m.html
-- update memories.html
-- update misspik.html
-- update mrball.html
-- added note.txt
-- update pup.html
-- update time.html
-- update tintin.html
-- update wynn.html
-- update zen.html
+- update about.html (update contributors and signatures, notes and removed temporary menu bar)
+- update born.html (re-format code)
+- update cha-eunwoo.html (removed temporary menu bar)
+- added easter_egg.wav 
+- added easter_egg_hint.jpg 
+- update index.css (update .card, .card2, .text, and added .easter_egg_hint, all img.birthday and 
+img.easter_egg_hint classes to both @media only screen, and re-format some code)
+- update m.html (removed temporary menu bar and update paragraph)
+- update memories.html (removed temporary menu bar and update title, heading, and also added easter egg) 
+- update misspik.html (removed temporary menu bar)
+- update mrball.html (removed temporary menu bar)
+- added note.txt (with planned features)
+- update pup.html (update paragraph, and re-format some code)
+- update time.html (removed temporary menu bar)
+- update tintin.html (removed temporary menu bar and re-format some code)
+- update wynn.html (removed temporary menu bar and update some css classes to use the correct one) 
+- update zen.html (removed temporary menu bar)
 
 ## v.0.1.4.4
-- update index.css
-- update note.txt
+- update index.css (update border radius for .card)
+- update note.txt (added information)
 
 ## v.0.1.4.5
-- update nine.html
-- note.txt -> note.md
-- update pup.html
+- update nine.html (removed temporary menu bar)
+- note.txt -> note.md (update file extension from txt to md)
+- update pup.html (removed temporary menu bar)
+- fixed pbw-002
 
 ## v.0.1.4.6
-- update note.md
-- update wynn.html
+- update note.md (added information)
+- update wynn.html (update paragraph)
+- fixed pbw-008
 
 ## v.0.1.4.7
-- update note.md
+- update note.md (added information)
 
 ## v.0.1.4.8
-- update about.html
+- update about.html 
 - update born.html
 - example.html -> format.html
 - update index.html
@@ -225,4 +235,10 @@
 - update versions.md
 - update note.md
 - update memories.html (changed the heading and added link to audio download)
-- 
+- update CONTRIBUTING.md
+
+## v.0.1.4.9 pre-2
+- update misspik.html (update title)
+- update mrball.html (update title)
+- update note.md (update information)
+- update versions.md (added information)

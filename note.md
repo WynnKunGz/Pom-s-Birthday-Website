@@ -53,7 +53,7 @@
 
 ## pbwf-009 code cleanup
 
-- planned to be finished : v.1.0
+- planned to be finished : v.0.2.0
 - status : unknown
 
 ## pbwf-010 update links to zine's page from cha-eunwoo.html to zine.html
