@@ -282,7 +282,10 @@ temporary menu bar)
 - update versions.md (update and added information)
 
 ## v.0.1.4.9 pre-3
-- update note.md (update information)
-- update versions.md (added information)
+- update note.md (update and added information)
+- update versions.md (update and added information)
 
 ## v.0.1.4.9 rc-1
+- update note.md (update and added information)
+- update versions.md (update and added information)
+- completed pbwf-012
