@@ -214,40 +214,74 @@ temporary menu bar)
 - fixed pbw-001
 
 ## 21w52a
-- update note.md
+- update note.md (added and update information)
 
 ## 21w52b
-- update note.md
-- added versions.md
-- update memories.html
+- update note.md (added and update information)
+- added versions.md (added information)
+- update memories.html (update files source as files have been renamed)
 - easter_egg_hint.jpg -> easter-egg-hint.jpg
 - easter_egg.wav -> easter-egg.wav
 
 ## 21w52c
-- update note.md
-- update versions.md
+- update note.md (added and update information)
+- update versions.md (added and update information)
+- update born.html (update heading and picture)
+- update index.css (added .homeheading)
+- update index.html (update css class for heading)
+- update m.html (update heading)
+- update mrball.html (update heading)
+- update misspik.html (update heading)
+- update nine.html (update heading)
+- update pup.html (update heading)
+- update time.html (update heading)
+- update tintin.html (update heading)
+- update zen.html (update heading)
+- update wynn.html (update heading)
+- update zine.html (update heading)
+- completed pbwf-011
+- fixed pbw-003
+- fixed pbw-005
+- fixed pbw-006
 
 ## 21w52d
-- added website icon
+- update about.html (added website icon)
+- update born.html (added website icon)
+- update format.html (added website icon)
+- update index.html (added website icon)
+- update m.html (added website icon)
+- update memories.html (added website icon)
+- update misspik.html (added website icon)
+- update mrball.html (added website icon)
+- update nine.html (added website icon)
+- update pup.html (added website icon)
+- update time.html (added website icon)
+- update tintin.html (added website icon)
+- update wynn.html (added website icon)
+- update zen.html (added website icon)
+- update zine.html (added website icon)
+- added logo.png
 - added bug report template
 - added feature request template
 - added CONTRIBUTING.md
-- update version.md
-- update note.md
+- update version.md (added and update information)
+- update note.md (added and update information)
+- completed pbwf-013
 
 ## v.0.1.4.9 pre-1
-- update versions.md
-- update note.md
-- update memories.html (changed the heading and added link to audio download)
+- update versions.md (added and update information)
+- update note.md (added and update information)
+- update memories.html (update title, heading and added audio download link)
 - update CONTRIBUTING.md
+- fixed pbw-007
 
 ## v.0.1.4.9 pre-2
 - update misspik.html (update title)
 - update mrball.html (update title)
-- update note.md (update information)
-- update versions.md (added information)
+- update note.md (update and added information)
+- update versions.md (update and added information)
 
-## v..0.1.4.9 pre-3
+## v.0.1.4.9 pre-3
 - update note.md (update information)
 - update versions.md (added information)
 
