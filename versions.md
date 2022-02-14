@@ -317,3 +317,12 @@ temporary menu bar)
 - update pup.html (update links)
 - update time.html (update links)
 - update tintin.html (update links)
+
+## v.0.1.4.10 pre-1
+- update note.md (update and added information)
+- update versions.md (update and added information)
+- update wynn.html (update links)
+- update zine.html (update links)
+- update zen.html (update links)
+
+## v.0.1.4.10 rc-1
