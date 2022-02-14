@@ -326,3 +326,6 @@ temporary menu bar)
 - update zen.html (update links)
 
 ## v.0.1.4.10 rc-1
+- update note.md (update and added information)
+- update versions.md (update and added information)
+- completed pbwf-010
