@@ -5,9 +5,9 @@
 ## in development version 
 - v.0.1.4.10
 ## current snapshot/ pre-release/ release candidate 
-- 22w07a
-## in development snapshot/ pre-release/ release candidate
 - 22w07b
+## in development snapshot/ pre-release/ release candidate
+- 22w07c
 
 # features
 
@@ -112,7 +112,7 @@ v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8, 21w52a,
 
 - affected versions : v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, 
 v.0.1.4.8, 21w52a, 21w52b, 21w52c, 21w52d, v.0.1.4.9 pre-1, v.0.1.4.9 pre-2, 
-v.0.1.4.9 pre-3, v.0.1.4.9 rc-1, v.0.1.4.9, 22w07a
+v.0.1.4.9 pre-3, v.0.1.4.9 rc-1, v.0.1.4.9, 22w07a, 22w07b
 - fixed version : unknown
 
 ## pbw-005 pictures are not rendered properly in the wynnkungz.github.io website.
@@ -153,5 +153,5 @@ v.0.1.2.1, v.0.1.2.2, v.0.1.2.3, v.0.1.3, v.0.3.1.1, v.0.1.3.2, v.0.1.3.3,
 v.0.1.3.4, v.0.1.3.5, v.0.1.3.6, v.0.1.3.7, v.0.1.3.8, v.0.1.4, v.0.1.4.1, 
 v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8, 
 21w52a, 21w52b, 21w52c, 21w52d, v.0.1.4.9 pre-1, v.0.1.4.9 pre-2, 
-v.0.1.4.9 pre-3, v.0.1.4.9 rc-1, v.0.1.4.9, 22w07a
+v.0.1.4.9 pre-3, v.0.1.4.9 rc-1, v.0.1.4.9, 22w07a, 22w07b
 - fixed version : unknown

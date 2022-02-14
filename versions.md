@@ -304,3 +304,9 @@ temporary menu bar)
 - update m.html (update links)
 
 ## 22w07b
+- update note.md (update and added information)
+- update versions.md (update and added information)
+- update memories.html (update links)
+- update misspik.html (update links)
+- update mrball.html (update links)
+- update nine.html (update links)
