@@ -294,3 +294,13 @@ temporary menu bar)
 - update note.md (update and added information)
 - update versions.md (update and added information)
 - released v.0.1.4.9
+
+## 22w07a
+- update note.md (update and added information)
+- update versions.md (update and added information)
+- update about.html (update links)
+- update born.html (update links)
+- update format.html (added and update links)
+- update m.html (update links)
+
+## 22w07b
