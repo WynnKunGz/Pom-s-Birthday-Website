@@ -310,3 +310,10 @@ temporary menu bar)
 - update misspik.html (update links)
 - update mrball.html (update links)
 - update nine.html (update links)
+
+## 22w07c
+- update note.md (update and added information)
+- update versions.md (update and added information)
+- update pup.html (update links)
+- update time.html (update links)
+- update tintin.html (update links)
