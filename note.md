@@ -5,9 +5,9 @@
 ## in development version 
 - v.0.1.4.11
 ## current snapshot/ pre-release/ release candidate 
-- v.0.1.4.11 pre-1
-## in development snapshot/ pre-release/ release candidate
 - v.0.1.4.11 rc-1
+## in development snapshot/ pre-release/ release candidate
+- none
 
 # features
 
@@ -76,6 +76,8 @@
 
 - planned to be finished : v.0.1.4.9
 - status : done
+
+## pbwf-014
 
 # issues
 
@@ -158,3 +160,5 @@ v.0.1.4.2, v.0.1.4.3, v.0.1.4.4, v.0.1.4.5, v.0.1.4.6, v.0.1.4.7, v.0.1.4.8,
 v.0.1.4.9 pre-3, v.0.1.4.9 rc-1, v.0.1.4.9, 22w07a, 22w07b, 22w07c, 
 v.0.1.4.10 pre-1, v.0.1.4.10 rc-1, v.0.1.4.10, v.0.1.4.11 pre-1
 - fixed version : unknown
+
+## pbw-010
