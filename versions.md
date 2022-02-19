@@ -334,3 +334,7 @@ temporary menu bar)
 - update note.md (update and added information)
 - update versions.md (update and added information)
 - released v.0.1.4.10
+
+## v.0.1.4.11 pre-1
+- update note.md (update and added information)
+- update versions.md (update and added information)
