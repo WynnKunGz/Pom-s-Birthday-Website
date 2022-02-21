@@ -9,6 +9,9 @@
 - added LICENSE
 - added readme.md
 
+## 21w48b 
+- update readme.md
+
 ## v.0.1 pre-1
 - update readme.md
 
@@ -17,9 +20,6 @@
 
 ## v.0.1.1
 - added .gitignore
-
-## 21w48b 
-- update readme.md
 
 ## v.0.1.2
 - update readme.md
