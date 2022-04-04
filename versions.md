@@ -365,3 +365,10 @@ temporary menu bar)
 - update note.md (update and added information)
 - update versions.md (update and added information)
 - released v.0.1.4.13
+
+## v.0.1.4.14 pre-1
+- update CONTRIBUTING.md (update information)
+- update LICENSE (update year to 2022)
+- update about.html (update information (update year to 2022))
+- update note.md (update and added information)
+- update versions.md (update and added information)
