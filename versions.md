@@ -376,8 +376,3 @@ temporary menu bar)
 ## v.0.1.4.14 rc-1
 - update note.md (update and added information)
 - update versions.md (update and added information)
-
-## v.0.1.4.14
-- update note.md (update and added information)
-- update versions.md (update and added information)
-- released v.0.1.4.14
