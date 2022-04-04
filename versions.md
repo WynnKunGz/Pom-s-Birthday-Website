@@ -372,3 +372,7 @@ temporary menu bar)
 - update about.html (update information (update year to 2022))
 - update note.md (update and added information)
 - update versions.md (update and added information)
+
+## v.0.1.4.14 rc-1
+- update note.md (update and added information)
+- update versions.md (update and added information)
