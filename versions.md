@@ -381,3 +381,8 @@ temporary menu bar)
 - update note.md (update and added information)
 - update versions.md (update and added information)
 - released v.0.1.4.14
+
+## 22w52a
+- update title from "2021" to "2021-2022"
+- update note.md (update and added information)
+- update versions.md (update and added information)

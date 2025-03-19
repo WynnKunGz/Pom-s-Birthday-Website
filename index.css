@@ -3,12 +3,11 @@
 }
 
 body {
-    background: #00a8a8;
+    background: paleturquoise;
     display: grid;
     place-items: center;
     height: 100vh;
-    margin: 0;
-    font-family: 'puimek', sans-serif;
+    font-family: 'TH SarabunPSK', sans-serif;
 }
 
 .card {
@@ -22,14 +21,13 @@ body {
     justify-content: center;
     align-items: center;
     padding: 1em;
-    overflow: hidden;
     margin-bottom: 200px;
     position: absolute;
     top: 40vh;
 }
 
 .card2 {
-    background: #F6D7A7;
+    /* background: #F6D7A7;
     border-radius: 0 100px 0 100px;
     width: 80vw;
     box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
@@ -37,14 +35,30 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 0 1em 1em 1em;
-    overflow: hidden;
-    margin-bottom: 200px;
-    position: absolute;
     top: 10vh;
+    bottom: 10vh;
+    font-weight: 520;
+    color: auto;
+    font-family: TH SarabunPSK;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 64px;;
+    margin-bottom: 256px; */
+    background: #f6d7a7;
+    border-radius: 0 100px 0 100px;
+    width: 75%;
+    box-shadow: 0 3px 6px rgba(0, 0, 0 , 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    place-items: center;
+    margin-top: 64px;
+    margin-bottom: 65536px;
+    font-family: TH SarabunPSK;
+    position: relative;
 }
 
-@media only screen and (min-width: 1000px) {
+/* @media only screen and (min-width: 1000px) {
     .card {
         flex-direction: row-reverse;
     }
@@ -185,7 +199,7 @@ body {
         max-width: 50vw;
         max-height: unset;
     }
-}
+} */
 
 img.birthday1 {
     max-height: 40vh;
@@ -256,7 +270,7 @@ img.easter_egg_hint {
 .text {
     padding: 1em;
     font-size: 20px;
-    font-family: 'puimek', sans-serif;
+    font-family: 'TH SarabunPSK', sans-serif;
 }
 
 .muted {
@@ -349,9 +363,62 @@ img.easter_egg_hint {
     margin: 10px;
     display: block;
     padding: 5px;
+    text-decoration: none;
+    color: blue;
 }
 
-.homeheading {
+/* .homeheading {
     color: black;
     margin: 10px;
+    z-index: 999;
+} */
+
+.navbar {
+    background-color: #071740;
+    overflow: hidden;
+    position: sticky;
+    z-index: 1;
+    top : 0;
+    left: 0;
+    margin : 0;
+    width: 100%;
+    float : inline-start;
+    display: flex; 
+}
+
+.navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: sticky;
+    overflow: hidden;
+}
+
+.navbar ul li {
+    display : inline;
+    float: left;
+}
+
+ /* Style the links inside the navigation bar */
+.navbar ul li a {
+    display: block;
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+ /* Change the color of links on hover */
+.navbar a:hover {
+    background-color: rgba(255, 255, 255, 0.75);
+    color: black;
+}
+
+ /* Add a color to the active/current link */
+.navbar a.active {
+    background-color: #4816ff95;
+    color: white;
 }
